@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "912559255684",
+    "firebase_url": "https://sminqtaskdemo-c2b32.firebaseio.com",
+    "project_id": "sminqtaskdemo-c2b32",
+    "storage_bucket": "sminqtaskdemo-c2b32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912559255684:android:3e35491f89fa2a1b",
+        "android_client_info": {
+          "package_name": "djay.com.sminqtaskdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912559255684-e43s3mlnjon5dbglve7m85jni829he08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "djay.com.sminqtaskdemo",
+            "certificate_hash": "154832d904895d572b4aae03ab0a2239684cd4b7"
+          }
+        },
+        {
+          "client_id": "912559255684-4sgq9hsrle8722vvf0f1l7363dfa6too.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9N5138dlUaq8ORw9GM8xYaQhyGjSk-Ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912559255684-4sgq9hsrle8722vvf0f1l7363dfa6too.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -27,6 +27,11 @@ import djay.com.sminqtaskdemo.data.model.Tasks;
 import djay.com.sminqtaskdemo.tasks.add.AddTaskDialogFragment;
 import djay.com.sminqtaskdemo.tasks.add.AddTaskPresenter;
 
+/**
+ * Activity class for showing list of Tasks extends {@link AppCompatActivity}
+ *
+ * @author Dhananjay Kumar
+ */
 public class TasksActivity extends AppCompatActivity implements TasksContract.View, TasksAdapter
         .MyClickListener {
     @BindView(R.id.pb_recipe_topics)
