@@ -6,7 +6,7 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.3.3'
-        classpath 'me.tatarka:gradle-retrolambda:3.4.0'
+        classpath 'me.tatarka:gradle-retrolambda:3.7.0'
 
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
@@ -25,15 +25,9 @@ task clean(type: Delete) {
 }
 
 ext {
-    // Sdk and tools
-    minSdkVersion = 15
-    targetSdkVersion = 25
-    compileSdkVersion = 25
-    buildToolsVersion = '25.4.0'
-
     supportLibraryVersion = '25.4.0'
     guavaVersion = '18.0'
-    butterknife = '8.4.0'
+    butterknife = '8.8.1'
     retrofit = '2.2.0'
     retrofit2rxjava2adapter = '2.2.0'
     rxjavaVersion = '2.0.6'
